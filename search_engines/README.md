@@ -1,3 +1,5 @@
+# DISCLAIMER: I AM NOT RESPONSABLE FOR THESE SEARCH ENGINES LACK OF CARE, IF YOU USE THEM YOU USE THEM AT YOUR OWN RISK... I RECOMMEND FOR THOSE WHO WANT A VERY SAFE, NSFW/CSAM FREE EXPERIENCE USE AHMIA AND FUCK THE REST, THEY BLOCKED ALL SEARCHES RELATED TO PORN AND HAVE THE LARGEST MD5 HASHED URL BLACKLIST TO ENSURE YOU ARE SAFE USING THEIR SERVICE
+
 |Name|Status|
 | ------ | ------ |
 |[Ahmia](http://juhanurmihxlp77nkq76byazcldy2hlmovfu2epvl5ankdibsot4csyd.onion)|ONLINE|
@@ -27,3 +29,4 @@
 |[Tornode](http://e6wzjohnxejirqa2sgridvymv2jxhrqdfuyxvoxp3xpqh7kr4kbwpwad.onion)|OFFLINE|
 
 Imported from: https://github.com/fastfire/deepdarkCTI
+
